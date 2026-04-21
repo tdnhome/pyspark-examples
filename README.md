@@ -24,8 +24,7 @@ Whether you're preparing for interviews, learning data engineering, or just expl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/python-pyspark-examples.git
-cd python-pyspark-examples
+git clone https://github.com/tdnhome/pyspark-examples.git
 ```
 
 ---
