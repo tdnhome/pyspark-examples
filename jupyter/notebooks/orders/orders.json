@@ -1,0 +1,5 @@
+{"orderId" : 101,"product" : "laptop","quantity": 1}
+{"orderId" : 102,"product" : "phone","quantity": 1}
+{"orderId" : 103,"product" : "note book","quantity": 3}
+{"orderId" : 104,"product" : "magazine","quantity": 2}
+{"order" : 105,"product" : "pen","quantity": 2, "note": "invalid test" }
